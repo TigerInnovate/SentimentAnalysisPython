@@ -1,3 +1,11 @@
+*.R
+reviews/train/neg_parsed/
+reviews/train/pos_parsed/
+reviews/train/unsup_parsed/
+
+.DS_Store
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
